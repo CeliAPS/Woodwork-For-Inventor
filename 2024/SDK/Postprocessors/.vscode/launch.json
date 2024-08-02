@@ -1,0 +1,1 @@
+{"configurations":[{"name":"Attach to Woodwork for Inventor","type":"node","request":"attach","protocol":"inspector","address":"localhost","port":57154}]}

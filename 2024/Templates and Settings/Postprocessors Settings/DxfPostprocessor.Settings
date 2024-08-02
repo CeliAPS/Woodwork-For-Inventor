@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<DxfPostprocessorData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LayerSettings>
+    <LayerData>
+      <KeyName>Workpiece</KeyName>
+      <Name>Workpiece</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>7</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Drill</KeyName>
+      <Name>Drill</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>7</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Mill</KeyName>
+      <Name>Mill Contour &lt;&gt;</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>1</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Mill Approach</KeyName>
+      <Name>Mill Contour &lt;&gt; Approach</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>2</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Pock</KeyName>
+      <Name>Pock Contour &lt;&gt;</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>1</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Pock Approach</KeyName>
+      <Name>Pock Contour &lt;&gt; Approach</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>2</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Groove</KeyName>
+      <Name>Groove Contour &lt;&gt;</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>1</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Groove Approach</KeyName>
+      <Name>Groove Contour &lt;&gt; Approach</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>2</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Cut</KeyName>
+      <Name>Cut Contour &lt;&gt;</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>1</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Cut Approach</KeyName>
+      <Name>Cut Contour &lt;&gt; Approach</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>2</Index>
+      </Color>
+    </LayerData>
+  </LayerSettings>
+  <UseClearanceDepth>true</UseClearanceDepth>
+  <UsePockFullProcessing>true</UsePockFullProcessing>
+  <UsePockEvaluateStepover>true</UsePockEvaluateStepover>
+</DxfPostprocessorData>

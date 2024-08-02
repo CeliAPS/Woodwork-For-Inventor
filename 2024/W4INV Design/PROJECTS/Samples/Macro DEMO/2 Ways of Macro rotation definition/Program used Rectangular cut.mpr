@@ -1,0 +1,102 @@
+[H
+VERSION="4.0 Alpha"
+WW="6.0.18"
+OP="1"
+WRK2="0"
+SCHN="0"
+HSP="0"
+O2="0"
+O4="0"
+O3="0"
+O5="0"
+SR="0"
+FM="1"
+ML="2000"
+UF="STANDARD"
+DN="STANDARD"
+GP="0"
+GY="0"
+GXY="0"
+NP="1"
+NE="0"
+NA="0"
+BFS="0"
+US="0"
+CB="0"
+UP="0"
+DW="0"
+MAT="HOMAG"
+INCH="0"
+VIEW="NOMIRROR"
+ANZ="1"
+BES="0"
+ENT="0"
+_BSX=600.000000
+_BSY=400.000000
+_BSZ=19.000000
+_FNX=0.000000
+_FNY=0.000000
+_RNX=0.000000
+_RNY=0.000000
+_RNZ=0.000000
+_RX=600.000000
+_RY=400.000000
+
+[001
+L="600"
+KM="Länge in X"
+B="400"
+KM="Breite in Y"
+D="19"
+KM="Dicke in Z"
+
+[K
+<00 \Koordinatensystem\
+NR="04"
+XP="0"
+XF="1.0"
+YP="0"
+YF="1.0"
+ZP="0"
+ZF="1.0"
+D1="0"
+KI="0"
+D2="0"
+MI="0"
+
+<00 \Koordinatensystem\
+NR="F0"
+XP="0"
+XF="1.0"
+YP="0"
+YF="1.0"
+ZP="0"
+ZF="1.0"
+D1="30"
+KI="0"
+D2="0"
+MI="0"
+
+<100 \WerkStck\
+LA="L"
+BR="B"
+DI="D"
+FNX="0"
+FNY="0"
+AX="0"
+AY="0"
+
+<139 \Komponente\
+IN="Macro education/Rectangle cut.mpr"
+XA="100"
+YA="20"
+ZA="0.0"
+EM="0"
+VA="LN 100"
+VA="WD 60"
+VA="DPT 13"
+KAT="Komponentenmakro"
+MNM="Rectangle cut"
+ORI=""
+KO="F0"
+!

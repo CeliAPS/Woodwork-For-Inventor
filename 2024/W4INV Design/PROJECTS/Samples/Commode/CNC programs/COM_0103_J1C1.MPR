@@ -1,0 +1,302 @@
+[H
+VERSION="4.0 Alpha"
+INCH="0"
+OP="1"
+
+[001
+L="875"
+KM=""
+W="452.999"
+KM=""
+T="3.2"
+KM=""
+
+[K
+<00 \Koordinatensystem\
+NR="F4"
+XP="0"
+XF="1"
+YP="0"
+YF="1"
+ZP="3.2"
+ZF="1"
+D1="0"
+KI="0"
+D2="0"
+MI="0"
+
+<100 \WerkStck\
+LA="L"
+BR="W"
+DI="T"
+FNX="0"
+FNY="0"
+AX="0"
+AY="0"
+
+<102 \BohrVert\
+XA="5.5"
+YA="51.5"
+BM="LS"
+TI="3"
+TNO="949"
+KO="0"
+F_="9"
+
+<102 \BohrVert\
+XA="5.5"
+YA="401.5"
+BM="LS"
+TI="3"
+TNO="949"
+KO="0"
+F_="9"
+
+<102 \BohrVert\
+XA="869"
+YA="51.5"
+BM="LS"
+TI="3"
+TNO="949"
+KO="0"
+F_="9"
+
+<102 \BohrVert\
+XA="869"
+YA="401.5"
+BM="LS"
+TI="3"
+TNO="949"
+KO="0"
+F_="9"
+
+<152 \Grafischer Kommentar\
+NM=""
+LOCAL="1"
+XA="35"
+YA="35"
+BR="50"
+HE="50"
+WIDTH="3"
+ROT="255"
+GRUEN="255"
+BLAU="0"
+STARTLOCAL
+SIZE X0.1 Y0.1
+U
+X0 Y0.07
+D
+X0 Y0.01
+U
+X0.01 Y0.08
+D
+X0 Y0.07 I0.01 J0.07 CCW
+U
+X0.07 Y0.08
+D
+X0.01 Y0.08
+U
+X0.07 Y0.065
+D
+X0.07 Y0.08
+U
+X0.02 Y0.065
+D
+X0.07 Y0.065
+U
+X0.02 Y0.015
+D
+X0.02 Y0.065
+U
+X0.07 Y0.015
+D
+X0.02 Y0.015
+U
+X0.07 Y0
+D
+X0.07 Y0.015
+U
+X0.01 Y0
+D
+X0.07 Y0
+U
+X0 Y0.01
+D
+X0.01 Y0 I0.01 J0.01 CCW
+U
+X0.025 Y0.099
+D
+X0.025 Y0.094
+U
+X0.055 Y0.099
+D
+X0.025 Y0.099
+U
+X0.025 Y0.094
+D
+X0.055 Y0.094
+U
+X0.055 Y0.08
+D
+X0.055 Y0.105
+U
+X0.055 Y0.105
+D
+X0.065 Y0.105
+U
+X0.065 Y0.105
+D
+X0.065 Y0.08
+U
+X0.065 Y0.099
+D
+X0.095 Y0.099
+U
+X0.095 Y0.099
+D
+X0.095 Y0.094
+U
+X0.095 Y0.094
+D
+X0.065 Y0.094
+U
+X0.055 Y0.065
+D
+X0.055 Y0.063
+U
+X0.065 Y0.063
+D
+X0.065 Y0.065
+U
+X0.055 Y0.063
+D
+X0.065 Y0.063
+U
+X0.055 Y0.063
+D
+X0.048 Y0.059
+U
+X0.072 Y0.059
+D
+X0.065 Y0.063
+U
+X0.048 Y0.059
+D
+X0.048 Y0.055
+U
+X0.048 Y0.055
+D
+X0.072 Y0.055
+U
+X0.072 Y0.055
+D
+X0.072 Y0.059
+U
+X0.048 Y0.021
+D
+X0.048 Y0.025
+U
+X0.055 Y0.017
+D
+X0.048 Y0.021
+U
+X0.055 Y0.017
+D
+X0.065 Y0.017
+U
+X0.072 Y0.021
+D
+X0.065 Y0.017
+U
+X0.072 Y0.025
+D
+X0.072 Y0.021
+U
+X0.048 Y0.025
+D
+X0.072 Y0.025
+U
+X0.065 Y0.017
+D
+X0.065 Y0.015
+U
+X0.055 Y0.015
+D
+X0.055 Y0.017
+U
+X0.03 Y0.055
+D
+X0.03 Y0.025
+U
+X0.09 Y0.055
+D
+X0.03 Y0.055
+U
+X0.09 Y0.055
+D
+X0.09 Y0.025
+U
+X0.09 Y0.025
+D
+X0.03 Y0.025
+U
+X0.03 Y0.03
+D
+X0.09 Y0.03
+U
+X0.03 Y0.05
+D
+X0.09 Y0.03
+U
+X0.03 Y0.03
+D
+X0.09 Y0.05
+U
+X0.03 Y0.05
+D
+X0.09 Y0.05
+U
+X0.03 Y0.055
+D
+X0.027 Y0.055
+U
+X0.027 Y0.055
+D
+X0.027 Y0.025
+U
+X0.027 Y0.025
+D
+X0.03 Y0.025
+U
+X0.03 Y0.025
+D
+X0.03 Y0.055
+U
+X0.09 Y0.055
+D
+X0.094 Y0.055
+U
+X0.094 Y0.055
+D
+X0.094 Y0.025
+U
+X0.094 Y0.025
+D
+X0.09 Y0.025
+U
+X0.09 Y0.025
+D
+X0.09 Y0.055
+ENDLOCAL
+KO="F4"
+
+<101 \Kommentar\
+KM="Clamping Type: WorkpieceWithMainCoversAndOversize"
+KM="Part Name: Drawer Bottom"
+KM="Part Code: COM_0103"
+KM="Material Type: CoveredBoard"
+KM="Material Name: Laminated Cardboard"
+KM="Material Code: LCB"
+KM="Material Color Name: Inner Parts 01 group color"
+KM="Material Color Code: IN PRT 01"
+!

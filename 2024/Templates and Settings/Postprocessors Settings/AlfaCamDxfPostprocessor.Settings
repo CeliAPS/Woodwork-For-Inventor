@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<AlfaCamDxfPostprocessorData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LayerSettings>
+    <LayerData>
+      <KeyName>Workpiece</KeyName>
+      <Name>Mill Contour</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>2</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Drill</KeyName>
+      <Name>Drill Holes</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>3</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Mill</KeyName>
+      <Name>Mill Contours</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>5</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Pock</KeyName>
+      <Name>Pocket Contours</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>6</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Groove</KeyName>
+      <Name>Groove Contours</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>4</Index>
+      </Color>
+    </LayerData>
+    <LayerData>
+      <KeyName>Cut</KeyName>
+      <Name>Cut Contours</Name>
+      <Color>
+        <UseTrueColor>false</UseTrueColor>
+        <Index>1</Index>
+      </Color>
+    </LayerData>
+  </LayerSettings>
+</AlfaCamDxfPostprocessorData>

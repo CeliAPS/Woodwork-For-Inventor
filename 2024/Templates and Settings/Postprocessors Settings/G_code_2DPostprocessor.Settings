@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PostprocessorSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Configurations>
+    <SettingsConfiguration>
+      <Name>Metric Units</Name>
+      <Data xsi:type="GCode_2DPostprocessorData">
+        <Units>Mm</Units>
+        <CoordinatesPrecision>3</CoordinatesPrecision>
+      </Data>
+    </SettingsConfiguration>
+    <SettingsConfiguration>
+      <Name>Imperial Units</Name>
+      <Data xsi:type="GCode_2DPostprocessorData" />
+    </SettingsConfiguration>
+  </Configurations>
+</PostprocessorSettings>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Format4PostprocessorData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DrillToolByDiameter>true</DrillToolByDiameter>
+  <MillToolByDiameter>true</MillToolByDiameter>
+  <CutToolByDiameter>true</CutToolByDiameter>
+</Format4PostprocessorData>
